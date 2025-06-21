@@ -1,0 +1,12 @@
+python-telegram-bot==13.15
+Pillow
+pytesseract
+python-docx
+openpyxl
+pymupdf
+SpeechRecognition
+pydub
+rarfile
+googletrans==4.0.0-rc1
+requests
+beautifulsoup4
