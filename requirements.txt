@@ -1,4 +1,4 @@
-python-telegram-bot==13.15
+python-telegram-bot==13.7
 Pillow
 pytesseract
 python-docx
@@ -7,6 +7,6 @@ pymupdf
 SpeechRecognition
 pydub
 rarfile
-googletrans==4.0.0-rc1
+googletrans==4.0.0-rc0
 requests
 beautifulsoup4
