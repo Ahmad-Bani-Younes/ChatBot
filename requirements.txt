@@ -3,10 +3,12 @@ Pillow
 pytesseract
 python-docx
 openpyxl
-pymupdf
+PyMuPDF
 SpeechRecognition
 pydub
 rarfile
 googletrans==4.0.0-rc0
 requests
 beautifulsoup4
+urllib3==1.26.16
+six==1.16.0
